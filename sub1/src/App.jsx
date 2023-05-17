@@ -1,7 +1,7 @@
 import React from 'react';
 
-function App() {
-	return <h1>Sub 1</h1>;
+function App({ text }) {
+	return <h1>Sub 1 {text}</h1>;
 }
 
 export default App;

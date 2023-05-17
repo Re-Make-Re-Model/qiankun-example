@@ -44,7 +44,8 @@
 	"dependencies": {
 		"qiankun": "^2.10.8",
 		"react": "^18.2.0",
-		"react-dom": "^18.2.0"
+		"react-dom": "^18.2.0",
+		"react-router-dom": "^6.11.1"
 	},
 	"lint-staged": {
 		"*.{js, jsx}": "npm run lint",
